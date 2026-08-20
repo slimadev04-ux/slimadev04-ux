@@ -2,7 +2,7 @@
 
 `42` `PORTO` `STUDENT` `FRONT-END` `HTML/CSS/JS` `PYTHON`
 
-# 👩‍💻 Sabrina | Software Engineering Student
+# 👩🏽‍💻 Sabrina | Software Engineering Student
 
 **42 Porto Student · Front-End Foundations · Python Discovery**
 
