@@ -6,8 +6,9 @@
 
 **42 Porto Student · Front-End Foundations · Python Discovery**
 
----
+</div>
 
+---
 ## 🧭 About Me
 
 I'm a student at **42 Porto**, having passed the **Piscine 17** and currently
@@ -91,5 +92,3 @@ I'm currently focused on:
 
 - GitHub: [github.com/slimadev04-ux](https://github.com/slimadev04-ux)
 - LinkedIn: [sabrina-silva19](https://www.linkedin.com/in/sabrina-silva19/)
-
-</div>
